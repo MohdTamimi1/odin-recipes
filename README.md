@@ -1,6 +1,6 @@
 Hello Everybody
 
-Can an ubereats driver learn how to Code and secure a job in as a web developer
+Can an ubereats driver learn how to Code and secure a job as a web developer
 
 This is the first project through the odin project. It will start with basic html and will grow more with learning more skill
 
